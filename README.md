@@ -54,7 +54,7 @@ with a terminal program first.
 ## 3. Install
 
 ```bash
-git clone https://github.com/JudeL12/dorna_pipette.git
+git clone https://github.com/dorna-robotics/dorna_pipette.git
 cd dorna_pipette
 pip install -e .
 ```
